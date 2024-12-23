@@ -1,0 +1,13 @@
+### POST
+
+POST http://localhost:3000?url=http://google.com HTTP/1.1
+content-type: application/json
+
+{
+}
+
+### GRY
+
+GET http://localhost:3000/qiI5w HTTP/1.1
+content-type: application/json
+
